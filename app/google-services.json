@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355165156335",
+    "project_id": "bharatpricer",
+    "storage_bucket": "bharatpricer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355165156335:android:39c99ed3540f8375b7bc1a",
+        "android_client_info": {
+          "package_name": "com.example.bharatpricer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARlmQ9QMnnLGsZkC3gXPzR10qT6rInTrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
